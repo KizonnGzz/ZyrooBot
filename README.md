@@ -1,2 +1,0 @@
-# ZyrooBot
-Bot WhatsApp ZyrooBot
